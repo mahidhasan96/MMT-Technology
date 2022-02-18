@@ -45,3 +45,35 @@ footer{
 .footer-link:hover{
     color: #fff;
 }
+.footer-title{
+    margin-bottom: 30px;
+    text-transform: capitalize;
+    color: #fff;
+}
+
+.footer-social-container{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.social-link{
+    color: #fff;
+    margin: 28px;
+    text-transform: capitalize;
+    text-decoration: none;
+
+}
+.social-link:nth-child(1){
+    
+}
+
+.footer-credit{
+    width: 100%;
+    padding: 10px;
+   text-align: center;
+   position: absolute;
+   bottom: 0;
+   left: 0;
+
+}
