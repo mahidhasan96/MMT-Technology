@@ -1,0 +1,35 @@
+
+.log{
+    width: 200px;
+    margin:300px auto;
+
+}
+
+.log input{
+    display: block;
+    width: 200px;
+    height: 40px;
+    margin: 20px 0;
+    border: none;
+    outline: none;
+    background: #121212;
+    border-radius: 5px;
+    text-transform: capitalize;
+    color: #fff;
+    font-family: 'roboto', sans-serif;
+    font-size: 14px;
+
+}
+
+.log-btn{
+    width: 100px;
+    height: 35px;
+    background: #383824;
+    color: white;
+    border: none;
+    border-radius: 2px;
+    margin-left: 50px;
+    font-size: 15px;
+    font-weight: 400;
+    cursor: pointer;
+}

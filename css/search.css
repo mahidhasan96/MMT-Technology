@@ -1,0 +1,23 @@
+.srarch-results{
+    width: 100%;
+    padding: 68px 0;
+}
+
+.heading{
+    font-size: 20px;
+    text-decoration: cadetblue;
+    font-weight: 480;
+    padding: 0 10vw;
+}
+
+.heading span{
+    font-weight: 700;
+}
+
+.product-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 5px;
+    padding:10px;
+  }
+  

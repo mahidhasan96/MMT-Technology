@@ -97,6 +97,7 @@
     color: #fff;
 }
 
+
 .btn{
     width: 48%;
     padding: 20px;
@@ -132,4 +133,11 @@
 .dev{
     color: #383838;
     line-height: 25px;
+}
+
+.product-container{
+    display: grid;
+    grid-template-columns:repeat(4, 1fr);
+    gap: 5px;
+    padding:10px;
 }
